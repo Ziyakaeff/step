@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Proga\Proga\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Proga.vcxproj -> C:\Users\User\source\repos\Proga\Debug\Proga.exe
